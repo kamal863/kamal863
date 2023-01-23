@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kamal prajapat
 - 👀 I’m interested in learning new technical things
-- 🌱 I’m currently learning  DSA in C++
+- 🌱 I’m currently learning  DSA in C++ and Web Development
 - 📫 How to reach me kamalprajapat868@gmail.com
 
 <!---
